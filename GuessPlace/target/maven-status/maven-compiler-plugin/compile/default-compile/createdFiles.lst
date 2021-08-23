@@ -1,0 +1,4 @@
+edu\espol\guessplace\App.class
+edu\espol\guessplace\GameController.class
+edu\espol\modelo\PlaceGuess.class
+module-info.class
